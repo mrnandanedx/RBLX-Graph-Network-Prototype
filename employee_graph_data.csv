@@ -1,0 +1,1101 @@
+Source,Edge,Target
+Person1,Owns,Manager1
+Manager1,FunctionOf,GA
+Person1,AccountableFor,Increase Sales1
+Person1,ResponsibleFor,Better Customer Ratings1
+Person1,Attends,Quarterly Strategy1
+Person1,MemberOf,Innovation1
+Person1,ParticipatesIn,Financial Reporting1
+Person1,Follows,Budget Approval1
+Person1,Maintains,Budget Approval1
+Person1,InterfacesWith,HRIS1
+Person1,InteractsWith,Clients1
+Person1,ContributesTo,Increase Sales1
+Person1,Requires,Teamwork
+Person1,MentoredBy,Representative38
+Person1,ReportsTo,Representative10
+Person1,Has,Problem Solving
+Risk Assessment1,ProcessOf,Marketing Campaign1
+Enhance Customer Satisfaction1,Supports,Enhance Customer Satisfaction36
+Increased Productivity1,Enables,Innovate Products1
+Marketing Campaign1,Sub,Customer Onboarding46
+Partners1,BelongsTo,Regulators17
+Director1,CoachedBy,Manager44
+Person2,Owns,Representative2
+Representative2,FunctionOf,SALES
+Person2,AccountableFor,Improve Efficiency2
+Person2,ResponsibleFor,New Product Launch2
+Person2,Attends,Annual Conference2
+Person2,MemberOf,Development2
+Person2,ParticipatesIn,Marketing Campaign2
+Person2,Follows,Risk Assessment2
+Person2,Maintains,Performance Evaluation2
+Person2,InterfacesWith,ERP2
+Person2,InteractsWith,Regulators2
+Person2,ContributesTo,Reduce Costs2
+Person2,Requires,Programming
+Person2,MentoredBy,Specialist25
+Person2,ReportsTo,Manager47
+Person2,Has,Problem Solving
+Quality Assurance2,ProcessOf,Supply Chain2
+Reduce Costs2,Supports,Increase Sales9
+Higher Revenue2,Enables,Improve Efficiency2
+Customer Onboarding2,Sub,Customer Onboarding29
+Regulators2,BelongsTo,Partners32
+Representative2,CoachedBy,Representative7
+Person3,Owns,Representative3
+Representative3,FunctionOf,GA
+Person3,AccountableFor,Innovate Products3
+Person3,ResponsibleFor,Higher Revenue3
+Person3,Attends,Monthly Planning3
+Person3,MemberOf,Leadership3
+Person3,ParticipatesIn,Customer Onboarding3
+Person3,Follows,Performance Evaluation3
+Person3,Maintains,Budget Approval3
+Person3,InterfacesWith,HRIS3
+Person3,InteractsWith,Clients3
+Person3,ContributesTo,Reduce Costs3
+Person3,Requires,Leadership
+Person3,MentoredBy,Director49
+Person3,ReportsTo,Manager35
+Person3,Has,Communication
+Performance Evaluation3,ProcessOf,Financial Reporting3
+Innovate Products3,Supports,Increase Sales8
+Increased Productivity3,Enables,Innovate Products3
+Marketing Campaign3,Sub,Customer Onboarding38
+Vendors3,BelongsTo,Shareholders43
+Coordinator3,CoachedBy,Manager19
+Person4,Owns,Analyst4
+Analyst4,FunctionOf,SALES
+Person4,AccountableFor,Reduce Costs4
+Person4,ResponsibleFor,Better Customer Ratings4
+Person4,Attends,Weekly Review4
+Person4,MemberOf,Project4
+Person4,ParticipatesIn,Agile Development4
+Person4,Follows,Budget Approval4
+Person4,Maintains,Risk Assessment4
+Person4,InterfacesWith,HRIS4
+Person4,InteractsWith,Vendors4
+Person4,ContributesTo,Increase Sales4
+Person4,Requires,Teamwork
+Person4,MentoredBy,Manager27
+Person4,ReportsTo,Director13
+Person4,Has,Communication
+Quality Assurance4,ProcessOf,Supply Chain4
+Improve Efficiency4,Supports,Enhance Customer Satisfaction7
+Higher Revenue4,Enables,Improve Efficiency4
+Customer Onboarding4,Sub,Customer Onboarding12
+Regulators4,BelongsTo,Vendors21
+Coordinator4,CoachedBy,Coordinator29
+Person5,Owns,Engineer5
+Engineer5,FunctionOf,ENGINEERING
+Person5,AccountableFor,Enhance Customer Satisfaction5
+Person5,ResponsibleFor,Better Customer Ratings5
+Person5,Attends,Annual Conference5
+Person5,MemberOf,Support5
+Person5,ParticipatesIn,Agile Development5
+Person5,Follows,Quality Assurance5
+Person5,Maintains,Code Review5
+Person5,InterfacesWith,Ticketing System5
+Person5,InteractsWith,Regulators5
+Person5,ContributesTo,Enhance Customer Satisfaction5
+Person5,Requires,Communication
+Person5,MentoredBy,Specialist12
+Person5,ReportsTo,Representative27
+Person5,Has,Leadership
+Budget Approval5,ProcessOf,Marketing Campaign5
+Innovate Products5,Supports,Enhance Customer Satisfaction23
+Increased Productivity5,Enables,Enhance Customer Satisfaction5
+Marketing Campaign5,Sub,Supply Chain7
+Regulators5,BelongsTo,Regulators1
+Coordinator5,CoachedBy,Coordinator34
+Person6,Owns,Manager6
+Manager6,FunctionOf,ENGINEERING
+Person6,AccountableFor,Increase Sales6
+Person6,ResponsibleFor,Higher Revenue6
+Person6,Attends,Annual Conference6
+Person6,MemberOf,Leadership6
+Person6,ParticipatesIn,Supply Chain6
+Person6,Follows,Code Review6
+Person6,Maintains,Risk Assessment6
+Person6,InterfacesWith,Project Management Tool6
+Person6,InteractsWith,Vendors6
+Person6,ContributesTo,Reduce Costs6
+Person6,Requires,Creativity
+Person6,MentoredBy,Analyst4
+Person6,ReportsTo,Representative27
+Person6,Has,Teamwork
+Code Review6,ProcessOf,Marketing Campaign6
+Improve Efficiency6,Supports,Innovate Products47
+Cost Savings6,Enables,Increase Sales6
+Financial Reporting6,Sub,Customer Onboarding12
+Vendors6,BelongsTo,Clients36
+Coordinator6,CoachedBy,Analyst20
+Person7,Owns,Representative7
+Representative7,FunctionOf,SALES
+Person7,AccountableFor,Increase Sales7
+Person7,ResponsibleFor,Higher Revenue7
+Person7,Attends,Annual Conference7
+Person7,MemberOf,Project7
+Person7,ParticipatesIn,Supply Chain7
+Person7,Follows,Risk Assessment7
+Person7,Maintains,Quality Assurance7
+Person7,InterfacesWith,Project Management Tool7
+Person7,InteractsWith,Regulators7
+Person7,ContributesTo,Improve Efficiency7
+Person7,Requires,Analysis
+Person7,MentoredBy,Specialist46
+Person7,ReportsTo,Engineer17
+Person7,Has,Analysis
+Code Review7,ProcessOf,Marketing Campaign7
+Increase Sales7,Supports,Enhance Customer Satisfaction2
+Better Customer Ratings7,Enables,Innovate Products7
+Customer Onboarding7,Sub,Financial Reporting7
+Clients7,BelongsTo,Shareholders27
+Coordinator7,CoachedBy,Specialist40
+Person8,Owns,Manager8
+Manager8,FunctionOf,ENGINEERING
+Person8,AccountableFor,Innovate Products8
+Person8,ResponsibleFor,Increased Productivity8
+Person8,Attends,Daily Standup8
+Person8,MemberOf,Leadership8
+Person8,ParticipatesIn,Customer Onboarding8
+Person8,Follows,Budget Approval8
+Person8,Maintains,Quality Assurance8
+Person8,InterfacesWith,HRIS8
+Person8,InteractsWith,Vendors8
+Person8,ContributesTo,Improve Efficiency8
+Person8,Requires,Analysis
+Person8,MentoredBy,Manager11
+Person8,ReportsTo,Manager31
+Person8,Has,Creativity
+Code Review8,ProcessOf,Supply Chain8
+Innovate Products8,Supports,Improve Efficiency6
+Better Customer Ratings8,Enables,Increase Sales8
+Marketing Campaign8,Sub,Agile Development18
+Shareholders8,BelongsTo,Regulators47
+Manager8,CoachedBy,Director14
+Person9,Owns,Engineer9
+Engineer9,FunctionOf,ENGINEERING
+Person9,AccountableFor,Innovate Products9
+Person9,ResponsibleFor,Increased Productivity9
+Person9,Attends,Daily Standup9
+Person9,MemberOf,Leadership9
+Person9,ParticipatesIn,Marketing Campaign9
+Person9,Follows,Performance Evaluation9
+Person9,Maintains,Budget Approval9
+Person9,InterfacesWith,CRM9
+Person9,InteractsWith,Partners9
+Person9,ContributesTo,Increase Sales9
+Person9,Requires,Programming
+Person9,MentoredBy,Analyst29
+Person9,ReportsTo,Engineer4
+Person9,Has,Teamwork
+Code Review9,ProcessOf,Supply Chain9
+Enhance Customer Satisfaction9,Supports,Reduce Costs13
+Better Customer Ratings9,Enables,Improve Efficiency9
+Marketing Campaign9,Sub,Customer Onboarding19
+Regulators9,BelongsTo,Shareholders19
+Coordinator9,CoachedBy,Manager34
+Person10,Owns,Manager10
+Manager10,FunctionOf,ENGINEERING
+Person10,AccountableFor,Enhance Customer Satisfaction10
+Person10,ResponsibleFor,Higher Revenue10
+Person10,Attends,Quarterly Strategy10
+Person10,MemberOf,Support10
+Person10,ParticipatesIn,Customer Onboarding10
+Person10,Follows,Performance Evaluation10
+Person10,Maintains,Quality Assurance10
+Person10,InterfacesWith,ERP10
+Person10,InteractsWith,Partners10
+Person10,ContributesTo,Enhance Customer Satisfaction10
+Person10,Requires,Programming
+Person10,MentoredBy,Representative30
+Person10,ReportsTo,Analyst29
+Person10,Has,Teamwork
+Performance Evaluation10,ProcessOf,Marketing Campaign10
+Enhance Customer Satisfaction10,Supports,Innovate Products16
+Higher Revenue10,Enables,Innovate Products10
+Marketing Campaign10,Sub,Customer Onboarding20
+Clients10,BelongsTo,Clients37
+Specialist10,CoachedBy,Director46
+Person11,Owns,Director11
+Director11,FunctionOf,SALES
+Person11,AccountableFor,Reduce Costs11
+Person11,ResponsibleFor,Higher Revenue11
+Person11,Attends,Daily Standup11
+Person11,MemberOf,Project11
+Person11,ParticipatesIn,Customer Onboarding11
+Person11,Follows,Code Review11
+Person11,Maintains,Quality Assurance11
+Person11,InterfacesWith,Project Management Tool11
+Person11,InteractsWith,Clients11
+Person11,ContributesTo,Enhance Customer Satisfaction11
+Person11,Requires,Communication
+Person11,MentoredBy,Engineer21
+Person11,ReportsTo,Director11
+Person11,Has,Leadership
+Code Review11,ProcessOf,Marketing Campaign11
+Reduce Costs11,Supports,Innovate Products12
+Increased Productivity11,Enables,Enhance Customer Satisfaction11
+Marketing Campaign11,Sub,Financial Reporting2
+Partners11,BelongsTo,Shareholders46
+Analyst11,CoachedBy,Manager30
+Person12,Owns,Analyst12
+Analyst12,FunctionOf,ENGINEERING
+Person12,AccountableFor,Increase Sales12
+Person12,ResponsibleFor,New Product Launch12
+Person12,Attends,Monthly Planning12
+Person12,MemberOf,Support12
+Person12,ParticipatesIn,Supply Chain12
+Person12,Follows,Budget Approval12
+Person12,Maintains,Performance Evaluation12
+Person12,InterfacesWith,ERP12
+Person12,InteractsWith,Clients12
+Person12,ContributesTo,Improve Efficiency12
+Person12,Requires,Analysis
+Person12,MentoredBy,Analyst6
+Person12,ReportsTo,Representative37
+Person12,Has,Programming
+Quality Assurance12,ProcessOf,Customer Onboarding12
+Enhance Customer Satisfaction12,Supports,Reduce Costs16
+Higher Revenue12,Enables,Enhance Customer Satisfaction12
+Agile Development12,Sub,Marketing Campaign4
+Clients12,BelongsTo,Shareholders48
+Manager12,CoachedBy,Representative9
+Person13,Owns,Analyst13
+Analyst13,FunctionOf,ENGINEERING
+Person13,AccountableFor,Enhance Customer Satisfaction13
+Person13,ResponsibleFor,Increased Productivity13
+Person13,Attends,Annual Conference13
+Person13,MemberOf,Development13
+Person13,ParticipatesIn,Agile Development13
+Person13,Follows,Code Review13
+Person13,Maintains,Quality Assurance13
+Person13,InterfacesWith,Ticketing System13
+Person13,InteractsWith,Clients13
+Person13,ContributesTo,Increase Sales13
+Person13,Requires,Programming
+Person13,MentoredBy,Coordinator12
+Person13,ReportsTo,Representative38
+Person13,Has,Communication
+Budget Approval13,ProcessOf,Agile Development13
+Increase Sales13,Supports,Improve Efficiency42
+Increased Productivity13,Enables,Innovate Products13
+Agile Development13,Sub,Agile Development16
+Clients13,BelongsTo,Shareholders28
+Representative13,CoachedBy,Coordinator41
+Person14,Owns,Analyst14
+Analyst14,FunctionOf,ENGINEERING
+Person14,AccountableFor,Innovate Products14
+Person14,ResponsibleFor,New Product Launch14
+Person14,Attends,Annual Conference14
+Person14,MemberOf,Support14
+Person14,ParticipatesIn,Supply Chain14
+Person14,Follows,Performance Evaluation14
+Person14,Maintains,Performance Evaluation14
+Person14,InterfacesWith,CRM14
+Person14,InteractsWith,Shareholders14
+Person14,ContributesTo,Enhance Customer Satisfaction14
+Person14,Requires,Analysis
+Person14,MentoredBy,Engineer47
+Person14,ReportsTo,Specialist12
+Person14,Has,Leadership
+Budget Approval14,ProcessOf,Agile Development14
+Enhance Customer Satisfaction14,Supports,Innovate Products6
+New Product Launch14,Enables,Innovate Products14
+Financial Reporting14,Sub,Agile Development38
+Clients14,BelongsTo,Shareholders21
+Specialist14,CoachedBy,Manager8
+Person15,Owns,Manager15
+Manager15,FunctionOf,ENGINEERING
+Person15,AccountableFor,Improve Efficiency15
+Person15,ResponsibleFor,Higher Revenue15
+Person15,Attends,Quarterly Strategy15
+Person15,MemberOf,Support15
+Person15,ParticipatesIn,Agile Development15
+Person15,Follows,Budget Approval15
+Person15,Maintains,Performance Evaluation15
+Person15,InterfacesWith,HRIS15
+Person15,InteractsWith,Regulators15
+Person15,ContributesTo,Increase Sales15
+Person15,Requires,Analysis
+Person15,MentoredBy,Manager46
+Person15,ReportsTo,Engineer40
+Person15,Has,Analysis
+Code Review15,ProcessOf,Supply Chain15
+Innovate Products15,Supports,Enhance Customer Satisfaction45
+Better Customer Ratings15,Enables,Increase Sales15
+Supply Chain15,Sub,Marketing Campaign48
+Vendors15,BelongsTo,Partners32
+Director15,CoachedBy,Engineer21
+Person16,Owns,Director16
+Director16,FunctionOf,ENGINEERING
+Person16,AccountableFor,Enhance Customer Satisfaction16
+Person16,ResponsibleFor,Higher Revenue16
+Person16,Attends,Weekly Review16
+Person16,MemberOf,Leadership16
+Person16,ParticipatesIn,Agile Development16
+Person16,Follows,Performance Evaluation16
+Person16,Maintains,Code Review16
+Person16,InterfacesWith,Ticketing System16
+Person16,InteractsWith,Regulators16
+Person16,ContributesTo,Improve Efficiency16
+Person16,Requires,Teamwork
+Person16,MentoredBy,Specialist25
+Person16,ReportsTo,Coordinator47
+Person16,Has,Problem Solving
+Risk Assessment16,ProcessOf,Agile Development16
+Improve Efficiency16,Supports,Reduce Costs23
+Better Customer Ratings16,Enables,Enhance Customer Satisfaction16
+Agile Development16,Sub,Agile Development4
+Shareholders16,BelongsTo,Clients33
+Analyst16,CoachedBy,Director10
+Person17,Owns,Manager17
+Manager17,FunctionOf,ENGINEERING
+Person17,AccountableFor,Increase Sales17
+Person17,ResponsibleFor,Cost Savings17
+Person17,Attends,Quarterly Strategy17
+Person17,MemberOf,Leadership17
+Person17,ParticipatesIn,Agile Development17
+Person17,Follows,Code Review17
+Person17,Maintains,Risk Assessment17
+Person17,InterfacesWith,HRIS17
+Person17,InteractsWith,Vendors17
+Person17,ContributesTo,Reduce Costs17
+Person17,Requires,Analysis
+Person17,MentoredBy,Representative13
+Person17,ReportsTo,Representative25
+Person17,Has,Leadership
+Budget Approval17,ProcessOf,Customer Onboarding17
+Reduce Costs17,Supports,Improve Efficiency6
+Higher Revenue17,Enables,Reduce Costs17
+Customer Onboarding17,Sub,Agile Development21
+Vendors17,BelongsTo,Partners6
+Engineer17,CoachedBy,Representative37
+Person18,Owns,Specialist18
+Specialist18,FunctionOf,ENGINEERING
+Person18,AccountableFor,Enhance Customer Satisfaction18
+Person18,ResponsibleFor,Better Customer Ratings18
+Person18,Attends,Monthly Planning18
+Person18,MemberOf,Development18
+Person18,ParticipatesIn,Supply Chain18
+Person18,Follows,Quality Assurance18
+Person18,Maintains,Risk Assessment18
+Person18,InterfacesWith,CRM18
+Person18,InteractsWith,Partners18
+Person18,ContributesTo,Increase Sales18
+Person18,Requires,Communication
+Person18,MentoredBy,Manager45
+Person18,ReportsTo,Coordinator25
+Person18,Has,Creativity
+Performance Evaluation18,ProcessOf,Marketing Campaign18
+Reduce Costs18,Supports,Increase Sales1
+Cost Savings18,Enables,Innovate Products18
+Agile Development18,Sub,Financial Reporting48
+Partners18,BelongsTo,Partners31
+Director18,CoachedBy,Director31
+Person19,Owns,Director19
+Director19,FunctionOf,GA
+Person19,AccountableFor,Reduce Costs19
+Person19,ResponsibleFor,Better Customer Ratings19
+Person19,Attends,Weekly Review19
+Person19,MemberOf,Support19
+Person19,ParticipatesIn,Agile Development19
+Person19,Follows,Code Review19
+Person19,Maintains,Code Review19
+Person19,InterfacesWith,CRM19
+Person19,InteractsWith,Clients19
+Person19,ContributesTo,Innovate Products19
+Person19,Requires,Programming
+Person19,MentoredBy,Representative16
+Person19,ReportsTo,Analyst13
+Person19,Has,Teamwork
+Performance Evaluation19,ProcessOf,Supply Chain19
+Enhance Customer Satisfaction19,Supports,Enhance Customer Satisfaction3
+Higher Revenue19,Enables,Improve Efficiency19
+Customer Onboarding19,Sub,Financial Reporting12
+Regulators19,BelongsTo,Regulators16
+Specialist19,CoachedBy,Analyst15
+Person20,Owns,Manager20
+Manager20,FunctionOf,GA
+Person20,AccountableFor,Enhance Customer Satisfaction20
+Person20,ResponsibleFor,Better Customer Ratings20
+Person20,Attends,Weekly Review20
+Person20,MemberOf,Development20
+Person20,ParticipatesIn,Marketing Campaign20
+Person20,Follows,Risk Assessment20
+Person20,Maintains,Budget Approval20
+Person20,InterfacesWith,HRIS20
+Person20,InteractsWith,Regulators20
+Person20,ContributesTo,Enhance Customer Satisfaction20
+Person20,Requires,Creativity
+Person20,MentoredBy,Analyst26
+Person20,ReportsTo,Coordinator45
+Person20,Has,Teamwork
+Performance Evaluation20,ProcessOf,Customer Onboarding20
+Enhance Customer Satisfaction20,Supports,Enhance Customer Satisfaction9
+Increased Productivity20,Enables,Increase Sales20
+Agile Development20,Sub,Marketing Campaign7
+Regulators20,BelongsTo,Regulators29
+Engineer20,CoachedBy,Engineer41
+Person21,Owns,Representative21
+Representative21,FunctionOf,GA
+Person21,AccountableFor,Increase Sales21
+Person21,ResponsibleFor,New Product Launch21
+Person21,Attends,Daily Standup21
+Person21,MemberOf,Support21
+Person21,ParticipatesIn,Supply Chain21
+Person21,Follows,Code Review21
+Person21,Maintains,Code Review21
+Person21,InterfacesWith,ERP21
+Person21,InteractsWith,Vendors21
+Person21,ContributesTo,Innovate Products21
+Person21,Requires,Creativity
+Person21,MentoredBy,Engineer46
+Person21,ReportsTo,Specialist5
+Person21,Has,Problem Solving
+Risk Assessment21,ProcessOf,Financial Reporting21
+Increase Sales21,Supports,Innovate Products25
+Higher Revenue21,Enables,Reduce Costs21
+Customer Onboarding21,Sub,Marketing Campaign43
+Shareholders21,BelongsTo,Shareholders37
+Coordinator21,CoachedBy,Coordinator34
+Person22,Owns,Specialist22
+Specialist22,FunctionOf,ENGINEERING
+Person22,AccountableFor,Increase Sales22
+Person22,ResponsibleFor,Higher Revenue22
+Person22,Attends,Monthly Planning22
+Person22,MemberOf,Innovation22
+Person22,ParticipatesIn,Customer Onboarding22
+Person22,Follows,Budget Approval22
+Person22,Maintains,Budget Approval22
+Person22,InterfacesWith,Project Management Tool22
+Person22,InteractsWith,Regulators22
+Person22,ContributesTo,Improve Efficiency22
+Person22,Requires,Teamwork
+Person22,MentoredBy,Representative37
+Person22,ReportsTo,Representative1
+Person22,Has,Analysis
+Budget Approval22,ProcessOf,Supply Chain22
+Innovate Products22,Supports,Increase Sales6
+Higher Revenue22,Enables,Increase Sales22
+Customer Onboarding22,Sub,Agile Development48
+Regulators22,BelongsTo,Regulators50
+Manager22,CoachedBy,Analyst44
+Person23,Owns,Analyst23
+Analyst23,FunctionOf,GA
+Person23,AccountableFor,Increase Sales23
+Person23,ResponsibleFor,New Product Launch23
+Person23,Attends,Monthly Planning23
+Person23,MemberOf,Development23
+Person23,ParticipatesIn,Financial Reporting23
+Person23,Follows,Quality Assurance23
+Person23,Maintains,Budget Approval23
+Person23,InterfacesWith,CRM23
+Person23,InteractsWith,Partners23
+Person23,ContributesTo,Reduce Costs23
+Person23,Requires,Teamwork
+Person23,MentoredBy,Representative5
+Person23,ReportsTo,Specialist15
+Person23,Has,Communication
+Code Review23,ProcessOf,Marketing Campaign23
+Reduce Costs23,Supports,Improve Efficiency37
+New Product Launch23,Enables,Innovate Products23
+Financial Reporting23,Sub,Financial Reporting12
+Partners23,BelongsTo,Regulators24
+Director23,CoachedBy,Manager40
+Person24,Owns,Engineer24
+Engineer24,FunctionOf,GA
+Person24,AccountableFor,Innovate Products24
+Person24,ResponsibleFor,Increased Productivity24
+Person24,Attends,Daily Standup24
+Person24,MemberOf,Project24
+Person24,ParticipatesIn,Marketing Campaign24
+Person24,Follows,Quality Assurance24
+Person24,Maintains,Code Review24
+Person24,InterfacesWith,CRM24
+Person24,InteractsWith,Regulators24
+Person24,ContributesTo,Increase Sales24
+Person24,Requires,Teamwork
+Person24,MentoredBy,Representative16
+Person24,ReportsTo,Manager48
+Person24,Has,Programming
+Performance Evaluation24,ProcessOf,Supply Chain24
+Increase Sales24,Supports,Improve Efficiency29
+Higher Revenue24,Enables,Reduce Costs24
+Supply Chain24,Sub,Supply Chain33
+Vendors24,BelongsTo,Regulators43
+Analyst24,CoachedBy,Analyst26
+Person25,Owns,Analyst25
+Analyst25,FunctionOf,GA
+Person25,AccountableFor,Improve Efficiency25
+Person25,ResponsibleFor,Higher Revenue25
+Person25,Attends,Daily Standup25
+Person25,MemberOf,Development25
+Person25,ParticipatesIn,Agile Development25
+Person25,Follows,Quality Assurance25
+Person25,Maintains,Risk Assessment25
+Person25,InterfacesWith,ERP25
+Person25,InteractsWith,Regulators25
+Person25,ContributesTo,Enhance Customer Satisfaction25
+Person25,Requires,Creativity
+Person25,MentoredBy,Specialist50
+Person25,ReportsTo,Director48
+Person25,Has,Creativity
+Quality Assurance25,ProcessOf,Customer Onboarding25
+Innovate Products25,Supports,Innovate Products28
+Better Customer Ratings25,Enables,Reduce Costs25
+Agile Development25,Sub,Marketing Campaign31
+Clients25,BelongsTo,Clients49
+Analyst25,CoachedBy,Manager39
+Person26,Owns,Analyst26
+Analyst26,FunctionOf,SALES
+Person26,AccountableFor,Increase Sales26
+Person26,ResponsibleFor,Increased Productivity26
+Person26,Attends,Daily Standup26
+Person26,MemberOf,Project26
+Person26,ParticipatesIn,Marketing Campaign26
+Person26,Follows,Code Review26
+Person26,Maintains,Budget Approval26
+Person26,InterfacesWith,ERP26
+Person26,InteractsWith,Regulators26
+Person26,ContributesTo,Innovate Products26
+Person26,Requires,Analysis
+Person26,MentoredBy,Representative5
+Person26,ReportsTo,Manager26
+Person26,Has,Analysis
+Budget Approval26,ProcessOf,Customer Onboarding26
+Improve Efficiency26,Supports,Increase Sales10
+New Product Launch26,Enables,Increase Sales26
+Marketing Campaign26,Sub,Customer Onboarding5
+Regulators26,BelongsTo,Vendors49
+Coordinator26,CoachedBy,Analyst30
+Person27,Owns,Coordinator27
+Coordinator27,FunctionOf,ENGINEERING
+Person27,AccountableFor,Improve Efficiency27
+Person27,ResponsibleFor,Better Customer Ratings27
+Person27,Attends,Monthly Planning27
+Person27,MemberOf,Innovation27
+Person27,ParticipatesIn,Marketing Campaign27
+Person27,Follows,Budget Approval27
+Person27,Maintains,Budget Approval27
+Person27,InterfacesWith,Ticketing System27
+Person27,InteractsWith,Regulators27
+Person27,ContributesTo,Innovate Products27
+Person27,Requires,Analysis
+Person27,MentoredBy,Engineer34
+Person27,ReportsTo,Manager6
+Person27,Has,Problem Solving
+Code Review27,ProcessOf,Supply Chain27
+Enhance Customer Satisfaction27,Supports,Increase Sales30
+New Product Launch27,Enables,Reduce Costs27
+Supply Chain27,Sub,Financial Reporting18
+Shareholders27,BelongsTo,Clients37
+Coordinator27,CoachedBy,Engineer38
+Person28,Owns,Engineer28
+Engineer28,FunctionOf,ENGINEERING
+Person28,AccountableFor,Increase Sales28
+Person28,ResponsibleFor,Cost Savings28
+Person28,Attends,Quarterly Strategy28
+Person28,MemberOf,Development28
+Person28,ParticipatesIn,Customer Onboarding28
+Person28,Follows,Budget Approval28
+Person28,Maintains,Performance Evaluation28
+Person28,InterfacesWith,CRM28
+Person28,InteractsWith,Regulators28
+Person28,ContributesTo,Enhance Customer Satisfaction28
+Person28,Requires,Problem Solving
+Person28,MentoredBy,Coordinator23
+Person28,ReportsTo,Representative50
+Person28,Has,Creativity
+Risk Assessment28,ProcessOf,Agile Development28
+Enhance Customer Satisfaction28,Supports,Enhance Customer Satisfaction13
+Better Customer Ratings28,Enables,Innovate Products28
+Marketing Campaign28,Sub,Agile Development8
+Regulators28,BelongsTo,Shareholders50
+Analyst28,CoachedBy,Analyst9
+Person29,Owns,Specialist29
+Specialist29,FunctionOf,GA
+Person29,AccountableFor,Reduce Costs29
+Person29,ResponsibleFor,Higher Revenue29
+Person29,Attends,Daily Standup29
+Person29,MemberOf,Development29
+Person29,ParticipatesIn,Supply Chain29
+Person29,Follows,Quality Assurance29
+Person29,Maintains,Performance Evaluation29
+Person29,InterfacesWith,Ticketing System29
+Person29,InteractsWith,Partners29
+Person29,ContributesTo,Enhance Customer Satisfaction29
+Person29,Requires,Problem Solving
+Person29,MentoredBy,Analyst7
+Person29,ReportsTo,Engineer39
+Person29,Has,Teamwork
+Performance Evaluation29,ProcessOf,Marketing Campaign29
+Innovate Products29,Supports,Reduce Costs27
+New Product Launch29,Enables,Enhance Customer Satisfaction29
+Agile Development29,Sub,Financial Reporting44
+Vendors29,BelongsTo,Regulators28
+Manager29,CoachedBy,Manager31
+Person30,Owns,Representative30
+Representative30,FunctionOf,SALES
+Person30,AccountableFor,Increase Sales30
+Person30,ResponsibleFor,Increased Productivity30
+Person30,Attends,Quarterly Strategy30
+Person30,MemberOf,Development30
+Person30,ParticipatesIn,Financial Reporting30
+Person30,Follows,Code Review30
+Person30,Maintains,Budget Approval30
+Person30,InterfacesWith,ERP30
+Person30,InteractsWith,Partners30
+Person30,ContributesTo,Increase Sales30
+Person30,Requires,Problem Solving
+Person30,MentoredBy,Director4
+Person30,ReportsTo,Director39
+Person30,Has,Creativity
+Risk Assessment30,ProcessOf,Financial Reporting30
+Increase Sales30,Supports,Improve Efficiency43
+Better Customer Ratings30,Enables,Increase Sales30
+Financial Reporting30,Sub,Customer Onboarding16
+Clients30,BelongsTo,Clients20
+Representative30,CoachedBy,Analyst48
+Person31,Owns,Manager31
+Manager31,FunctionOf,GA
+Person31,AccountableFor,Reduce Costs31
+Person31,ResponsibleFor,Cost Savings31
+Person31,Attends,Annual Conference31
+Person31,MemberOf,Development31
+Person31,ParticipatesIn,Customer Onboarding31
+Person31,Follows,Budget Approval31
+Person31,Maintains,Budget Approval31
+Person31,InterfacesWith,HRIS31
+Person31,InteractsWith,Partners31
+Person31,ContributesTo,Improve Efficiency31
+Person31,Requires,Teamwork
+Person31,MentoredBy,Analyst50
+Person31,ReportsTo,Manager1
+Person31,Has,Analysis
+Quality Assurance31,ProcessOf,Agile Development31
+Enhance Customer Satisfaction31,Supports,Reduce Costs25
+Better Customer Ratings31,Enables,Improve Efficiency31
+Financial Reporting31,Sub,Customer Onboarding14
+Shareholders31,BelongsTo,Partners48
+Engineer31,CoachedBy,Engineer6
+Person32,Owns,Coordinator32
+Coordinator32,FunctionOf,SALES
+Person32,AccountableFor,Enhance Customer Satisfaction32
+Person32,ResponsibleFor,Cost Savings32
+Person32,Attends,Monthly Planning32
+Person32,MemberOf,Support32
+Person32,ParticipatesIn,Marketing Campaign32
+Person32,Follows,Code Review32
+Person32,Maintains,Performance Evaluation32
+Person32,InterfacesWith,HRIS32
+Person32,InteractsWith,Regulators32
+Person32,ContributesTo,Increase Sales32
+Person32,Requires,Problem Solving
+Person32,MentoredBy,Representative18
+Person32,ReportsTo,Analyst21
+Person32,Has,Communication
+Risk Assessment32,ProcessOf,Marketing Campaign32
+Enhance Customer Satisfaction32,Supports,Increase Sales3
+New Product Launch32,Enables,Improve Efficiency32
+Marketing Campaign32,Sub,Customer Onboarding39
+Partners32,BelongsTo,Regulators33
+Coordinator32,CoachedBy,Coordinator3
+Person33,Owns,Manager33
+Manager33,FunctionOf,SALES
+Person33,AccountableFor,Enhance Customer Satisfaction33
+Person33,ResponsibleFor,Increased Productivity33
+Person33,Attends,Daily Standup33
+Person33,MemberOf,Project33
+Person33,ParticipatesIn,Customer Onboarding33
+Person33,Follows,Budget Approval33
+Person33,Maintains,Quality Assurance33
+Person33,InterfacesWith,CRM33
+Person33,InteractsWith,Vendors33
+Person33,ContributesTo,Enhance Customer Satisfaction33
+Person33,Requires,Creativity
+Person33,MentoredBy,Director7
+Person33,ReportsTo,Director37
+Person33,Has,Analysis
+Performance Evaluation33,ProcessOf,Marketing Campaign33
+Increase Sales33,Supports,Innovate Products26
+Higher Revenue33,Enables,Reduce Costs33
+Supply Chain33,Sub,Financial Reporting30
+Clients33,BelongsTo,Vendors2
+Director33,CoachedBy,Coordinator47
+Person34,Owns,Analyst34
+Analyst34,FunctionOf,GA
+Person34,AccountableFor,Increase Sales34
+Person34,ResponsibleFor,New Product Launch34
+Person34,Attends,Quarterly Strategy34
+Person34,MemberOf,Project34
+Person34,ParticipatesIn,Supply Chain34
+Person34,Follows,Code Review34
+Person34,Maintains,Code Review34
+Person34,InterfacesWith,CRM34
+Person34,InteractsWith,Shareholders34
+Person34,ContributesTo,Improve Efficiency34
+Person34,Requires,Leadership
+Person34,MentoredBy,Engineer45
+Person34,ReportsTo,Manager11
+Person34,Has,Creativity
+Budget Approval34,ProcessOf,Supply Chain34
+Enhance Customer Satisfaction34,Supports,Increase Sales5
+Cost Savings34,Enables,Enhance Customer Satisfaction34
+Marketing Campaign34,Sub,Financial Reporting46
+Clients34,BelongsTo,Shareholders34
+Representative34,CoachedBy,Manager41
+Person35,Owns,Manager35
+Manager35,FunctionOf,ENGINEERING
+Person35,AccountableFor,Enhance Customer Satisfaction35
+Person35,ResponsibleFor,Better Customer Ratings35
+Person35,Attends,Annual Conference35
+Person35,MemberOf,Development35
+Person35,ParticipatesIn,Supply Chain35
+Person35,Follows,Performance Evaluation35
+Person35,Maintains,Code Review35
+Person35,InterfacesWith,Project Management Tool35
+Person35,InteractsWith,Regulators35
+Person35,ContributesTo,Innovate Products35
+Person35,Requires,Communication
+Person35,MentoredBy,Representative13
+Person35,ReportsTo,Coordinator3
+Person35,Has,Communication
+Code Review35,ProcessOf,Marketing Campaign35
+Reduce Costs35,Supports,Increase Sales1
+Cost Savings35,Enables,Innovate Products35
+Financial Reporting35,Sub,Agile Development20
+Vendors35,BelongsTo,Partners48
+Analyst35,CoachedBy,Coordinator21
+Person36,Owns,Specialist36
+Specialist36,FunctionOf,GA
+Person36,AccountableFor,Reduce Costs36
+Person36,ResponsibleFor,Cost Savings36
+Person36,Attends,Monthly Planning36
+Person36,MemberOf,Development36
+Person36,ParticipatesIn,Supply Chain36
+Person36,Follows,Performance Evaluation36
+Person36,Maintains,Performance Evaluation36
+Person36,InterfacesWith,HRIS36
+Person36,InteractsWith,Clients36
+Person36,ContributesTo,Increase Sales36
+Person36,Requires,Communication
+Person36,MentoredBy,Engineer1
+Person36,ReportsTo,Engineer10
+Person36,Has,Analysis
+Quality Assurance36,ProcessOf,Financial Reporting36
+Enhance Customer Satisfaction36,Supports,Innovate Products27
+Increased Productivity36,Enables,Improve Efficiency36
+Agile Development36,Sub,Financial Reporting31
+Regulators36,BelongsTo,Shareholders40
+Specialist36,CoachedBy,Analyst29
+Person37,Owns,Director37
+Director37,FunctionOf,ENGINEERING
+Person37,AccountableFor,Enhance Customer Satisfaction37
+Person37,ResponsibleFor,Better Customer Ratings37
+Person37,Attends,Daily Standup37
+Person37,MemberOf,Development37
+Person37,ParticipatesIn,Supply Chain37
+Person37,Follows,Quality Assurance37
+Person37,Maintains,Performance Evaluation37
+Person37,InterfacesWith,Ticketing System37
+Person37,InteractsWith,Vendors37
+Person37,ContributesTo,Innovate Products37
+Person37,Requires,Problem Solving
+Person37,MentoredBy,Specialist16
+Person37,ReportsTo,Engineer20
+Person37,Has,Programming
+Risk Assessment37,ProcessOf,Financial Reporting37
+Enhance Customer Satisfaction37,Supports,Innovate Products5
+Cost Savings37,Enables,Reduce Costs37
+Financial Reporting37,Sub,Supply Chain26
+Regulators37,BelongsTo,Regulators27
+Representative37,CoachedBy,Director19
+Person38,Owns,Analyst38
+Analyst38,FunctionOf,SALES
+Person38,AccountableFor,Innovate Products38
+Person38,ResponsibleFor,Increased Productivity38
+Person38,Attends,Weekly Review38
+Person38,MemberOf,Leadership38
+Person38,ParticipatesIn,Financial Reporting38
+Person38,Follows,Risk Assessment38
+Person38,Maintains,Budget Approval38
+Person38,InterfacesWith,CRM38
+Person38,InteractsWith,Vendors38
+Person38,ContributesTo,Enhance Customer Satisfaction38
+Person38,Requires,Programming
+Person38,MentoredBy,Representative14
+Person38,ReportsTo,Analyst8
+Person38,Has,Communication
+Code Review38,ProcessOf,Customer Onboarding38
+Reduce Costs38,Supports,Enhance Customer Satisfaction48
+New Product Launch38,Enables,Increase Sales38
+Customer Onboarding38,Sub,Agile Development47
+Partners38,BelongsTo,Clients41
+Coordinator38,CoachedBy,Manager43
+Person39,Owns,Representative39
+Representative39,FunctionOf,GA
+Person39,AccountableFor,Innovate Products39
+Person39,ResponsibleFor,Better Customer Ratings39
+Person39,Attends,Monthly Planning39
+Person39,MemberOf,Development39
+Person39,ParticipatesIn,Customer Onboarding39
+Person39,Follows,Performance Evaluation39
+Person39,Maintains,Risk Assessment39
+Person39,InterfacesWith,Project Management Tool39
+Person39,InteractsWith,Shareholders39
+Person39,ContributesTo,Innovate Products39
+Person39,Requires,Creativity
+Person39,MentoredBy,Analyst12
+Person39,ReportsTo,Analyst38
+Person39,Has,Analysis
+Performance Evaluation39,ProcessOf,Marketing Campaign39
+Improve Efficiency39,Supports,Improve Efficiency45
+Better Customer Ratings39,Enables,Increase Sales39
+Supply Chain39,Sub,Customer Onboarding48
+Shareholders39,BelongsTo,Partners43
+Analyst39,CoachedBy,Manager4
+Person40,Owns,Representative40
+Representative40,FunctionOf,GA
+Person40,AccountableFor,Increase Sales40
+Person40,ResponsibleFor,Cost Savings40
+Person40,Attends,Annual Conference40
+Person40,MemberOf,Innovation40
+Person40,ParticipatesIn,Agile Development40
+Person40,Follows,Quality Assurance40
+Person40,Maintains,Code Review40
+Person40,InterfacesWith,ERP40
+Person40,InteractsWith,Partners40
+Person40,ContributesTo,Improve Efficiency40
+Person40,Requires,Problem Solving
+Person40,MentoredBy,Manager9
+Person40,ReportsTo,Analyst27
+Person40,Has,Programming
+Performance Evaluation40,ProcessOf,Marketing Campaign40
+Improve Efficiency40,Supports,Enhance Customer Satisfaction29
+New Product Launch40,Enables,Enhance Customer Satisfaction40
+Financial Reporting40,Sub,Agile Development9
+Partners40,BelongsTo,Partners20
+Representative40,CoachedBy,Representative50
+Person41,Owns,Specialist41
+Specialist41,FunctionOf,GA
+Person41,AccountableFor,Reduce Costs41
+Person41,ResponsibleFor,Increased Productivity41
+Person41,Attends,Monthly Planning41
+Person41,MemberOf,Innovation41
+Person41,ParticipatesIn,Financial Reporting41
+Person41,Follows,Quality Assurance41
+Person41,Maintains,Performance Evaluation41
+Person41,InterfacesWith,ERP41
+Person41,InteractsWith,Regulators41
+Person41,ContributesTo,Improve Efficiency41
+Person41,Requires,Creativity
+Person41,MentoredBy,Engineer22
+Person41,ReportsTo,Coordinator22
+Person41,Has,Problem Solving
+Code Review41,ProcessOf,Agile Development41
+Innovate Products41,Supports,Reduce Costs17
+Increased Productivity41,Enables,Enhance Customer Satisfaction41
+Supply Chain41,Sub,Supply Chain7
+Clients41,BelongsTo,Shareholders27
+Analyst41,CoachedBy,Specialist40
+Person42,Owns,Representative42
+Representative42,FunctionOf,ENGINEERING
+Person42,AccountableFor,Innovate Products42
+Person42,ResponsibleFor,Better Customer Ratings42
+Person42,Attends,Weekly Review42
+Person42,MemberOf,Development42
+Person42,ParticipatesIn,Agile Development42
+Person42,Follows,Code Review42
+Person42,Maintains,Risk Assessment42
+Person42,InterfacesWith,HRIS42
+Person42,InteractsWith,Vendors42
+Person42,ContributesTo,Increase Sales42
+Person42,Requires,Creativity
+Person42,MentoredBy,Coordinator10
+Person42,ReportsTo,Coordinator42
+Person42,Has,Analysis
+Risk Assessment42,ProcessOf,Financial Reporting42
+Innovate Products42,Supports,Improve Efficiency26
+Higher Revenue42,Enables,Innovate Products42
+Financial Reporting42,Sub,Agile Development15
+Shareholders42,BelongsTo,Shareholders11
+Director42,CoachedBy,Engineer43
+Person43,Owns,Representative43
+Representative43,FunctionOf,ENGINEERING
+Person43,AccountableFor,Innovate Products43
+Person43,ResponsibleFor,New Product Launch43
+Person43,Attends,Annual Conference43
+Person43,MemberOf,Development43
+Person43,ParticipatesIn,Financial Reporting43
+Person43,Follows,Code Review43
+Person43,Maintains,Budget Approval43
+Person43,InterfacesWith,CRM43
+Person43,InteractsWith,Shareholders43
+Person43,ContributesTo,Enhance Customer Satisfaction43
+Person43,Requires,Creativity
+Person43,MentoredBy,Manager2
+Person43,ReportsTo,Director10
+Person43,Has,Leadership
+Quality Assurance43,ProcessOf,Customer Onboarding43
+Innovate Products43,Supports,Reduce Costs38
+Better Customer Ratings43,Enables,Enhance Customer Satisfaction43
+Agile Development43,Sub,Financial Reporting13
+Clients43,BelongsTo,Clients2
+Coordinator43,CoachedBy,Analyst25
+Person44,Owns,Manager44
+Manager44,FunctionOf,SALES
+Person44,AccountableFor,Enhance Customer Satisfaction44
+Person44,ResponsibleFor,New Product Launch44
+Person44,Attends,Annual Conference44
+Person44,MemberOf,Development44
+Person44,ParticipatesIn,Supply Chain44
+Person44,Follows,Code Review44
+Person44,Maintains,Risk Assessment44
+Person44,InterfacesWith,Project Management Tool44
+Person44,InteractsWith,Vendors44
+Person44,ContributesTo,Increase Sales44
+Person44,Requires,Leadership
+Person44,MentoredBy,Manager46
+Person44,ReportsTo,Coordinator50
+Person44,Has,Creativity
+Quality Assurance44,ProcessOf,Supply Chain44
+Improve Efficiency44,Supports,Increase Sales2
+Higher Revenue44,Enables,Increase Sales44
+Marketing Campaign44,Sub,Customer Onboarding47
+Partners44,BelongsTo,Vendors2
+Coordinator44,CoachedBy,Representative12
+Person45,Owns,Director45
+Director45,FunctionOf,SALES
+Person45,AccountableFor,Enhance Customer Satisfaction45
+Person45,ResponsibleFor,New Product Launch45
+Person45,Attends,Quarterly Strategy45
+Person45,MemberOf,Project45
+Person45,ParticipatesIn,Customer Onboarding45
+Person45,Follows,Risk Assessment45
+Person45,Maintains,Quality Assurance45
+Person45,InterfacesWith,CRM45
+Person45,InteractsWith,Partners45
+Person45,ContributesTo,Reduce Costs45
+Person45,Requires,Problem Solving
+Person45,MentoredBy,Specialist12
+Person45,ReportsTo,Coordinator6
+Person45,Has,Creativity
+Code Review45,ProcessOf,Agile Development45
+Improve Efficiency45,Supports,Reduce Costs21
+Cost Savings45,Enables,Increase Sales45
+Agile Development45,Sub,Supply Chain8
+Shareholders45,BelongsTo,Clients13
+Coordinator45,CoachedBy,Representative9
+Person46,Owns,Manager46
+Manager46,FunctionOf,GA
+Person46,AccountableFor,Increase Sales46
+Person46,ResponsibleFor,Increased Productivity46
+Person46,Attends,Weekly Review46
+Person46,MemberOf,Support46
+Person46,ParticipatesIn,Supply Chain46
+Person46,Follows,Risk Assessment46
+Person46,Maintains,Budget Approval46
+Person46,InterfacesWith,ERP46
+Person46,InteractsWith,Partners46
+Person46,ContributesTo,Increase Sales46
+Person46,Requires,Communication
+Person46,MentoredBy,Coordinator35
+Person46,ReportsTo,Manager30
+Person46,Has,Communication
+Quality Assurance46,ProcessOf,Customer Onboarding46
+Increase Sales46,Supports,Reduce Costs50
+Better Customer Ratings46,Enables,Innovate Products46
+Supply Chain46,Sub,Marketing Campaign5
+Regulators46,BelongsTo,Vendors17
+Analyst46,CoachedBy,Representative14
+Person47,Owns,Director47
+Director47,FunctionOf,ENGINEERING
+Person47,AccountableFor,Enhance Customer Satisfaction47
+Person47,ResponsibleFor,Cost Savings47
+Person47,Attends,Monthly Planning47
+Person47,MemberOf,Support47
+Person47,ParticipatesIn,Supply Chain47
+Person47,Follows,Risk Assessment47
+Person47,Maintains,Budget Approval47
+Person47,InterfacesWith,ERP47
+Person47,InteractsWith,Shareholders47
+Person47,ContributesTo,Increase Sales47
+Person47,Requires,Analysis
+Person47,MentoredBy,Director10
+Person47,ReportsTo,Analyst25
+Person47,Has,Creativity
+Code Review47,ProcessOf,Supply Chain47
+Enhance Customer Satisfaction47,Supports,Innovate Products4
+Cost Savings47,Enables,Increase Sales47
+Supply Chain47,Sub,Marketing Campaign25
+Vendors47,BelongsTo,Partners14
+Engineer47,CoachedBy,Analyst14
+Person48,Owns,Coordinator48
+Coordinator48,FunctionOf,GA
+Person48,AccountableFor,Increase Sales48
+Person48,ResponsibleFor,Higher Revenue48
+Person48,Attends,Annual Conference48
+Person48,MemberOf,Development48
+Person48,ParticipatesIn,Supply Chain48
+Person48,Follows,Budget Approval48
+Person48,Maintains,Risk Assessment48
+Person48,InterfacesWith,HRIS48
+Person48,InteractsWith,Shareholders48
+Person48,ContributesTo,Enhance Customer Satisfaction48
+Person48,Requires,Analysis
+Person48,MentoredBy,Manager36
+Person48,ReportsTo,Manager3
+Person48,Has,Teamwork
+Quality Assurance48,ProcessOf,Customer Onboarding48
+Increase Sales48,Supports,Increase Sales8
+Higher Revenue48,Enables,Enhance Customer Satisfaction48
+Marketing Campaign48,Sub,Customer Onboarding50
+Vendors48,BelongsTo,Clients19
+Coordinator48,CoachedBy,Analyst34
+Person49,Owns,Analyst49
+Analyst49,FunctionOf,ENGINEERING
+Person49,AccountableFor,Improve Efficiency49
+Person49,ResponsibleFor,Increased Productivity49
+Person49,Attends,Daily Standup49
+Person49,MemberOf,Innovation49
+Person49,ParticipatesIn,Marketing Campaign49
+Person49,Follows,Risk Assessment49
+Person49,Maintains,Budget Approval49
+Person49,InterfacesWith,ERP49
+Person49,InteractsWith,Vendors49
+Person49,ContributesTo,Improve Efficiency49
+Person49,Requires,Leadership
+Person49,MentoredBy,Manager22
+Person49,ReportsTo,Analyst8
+Person49,Has,Programming
+Code Review49,ProcessOf,Marketing Campaign49
+Reduce Costs49,Supports,Enhance Customer Satisfaction16
+Better Customer Ratings49,Enables,Increase Sales49
+Customer Onboarding49,Sub,Marketing Campaign21
+Shareholders49,BelongsTo,Partners31
+Specialist49,CoachedBy,Coordinator4
+Person50,Owns,Engineer50
+Engineer50,FunctionOf,SALES
+Person50,AccountableFor,Improve Efficiency50
+Person50,ResponsibleFor,Increased Productivity50
+Person50,Attends,Daily Standup50
+Person50,MemberOf,Development50
+Person50,ParticipatesIn,Financial Reporting50
+Person50,Follows,Code Review50
+Person50,Maintains,Budget Approval50
+Person50,InterfacesWith,CRM50
+Person50,InteractsWith,Partners50
+Person50,ContributesTo,Increase Sales50
+Person50,Requires,Problem Solving
+Person50,MentoredBy,Coordinator16
+Person50,ReportsTo,Analyst16
+Person50,Has,Teamwork
+Code Review50,ProcessOf,Agile Development50
+Enhance Customer Satisfaction50,Supports,Improve Efficiency47
+Higher Revenue50,Enables,Innovate Products50
+Financial Reporting50,Sub,Marketing Campaign23
+Clients50,BelongsTo,Shareholders11
+Representative50,CoachedBy,Coordinator5
